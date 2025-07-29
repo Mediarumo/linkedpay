@@ -1,0 +1,4 @@
+qr_api/
+├── main.py             # Arquivo principal da API
+├── requirements.txt    # Dependências do projeto
+└── .gitignore          # (opcional)
